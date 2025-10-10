@@ -1,15 +1,15 @@
-![(assets/banner_2_2.png)](https://github.com/Zaytsev-V/Zaytsev_V/blob/assets/banner_2_2.jpg)
+![(main/banner_2_2.png)](https://github.com/Zaytsev-V/Zaytsev-V/blob/main/banner_2_2.jpg)
 
 ## Привет, я Зайцев Виталий
 
 Аналитик данных. Здесь вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для решения поставленных задач.
 
 <div align="center">
-  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/python.svg" alt="Python"  />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/sql.svg" alt="SQL"  />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/pandas.svg" alt="Pandas"  />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/jupyter_b.svg" alt="Jupyter"  />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/google.svg" alt="Google"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/python.svg" alt="Python"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/sql.svg" alt="SQL"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/pandas.svg" alt="Pandas"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/jupyter_b.svg" alt="Jupyter"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/google.svg" alt="Google" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/datalens.svg" alt="Datalens" />
 </div>
 
