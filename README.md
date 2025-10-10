@@ -1,16 +1,31 @@
-## Hi there 👋
+![(assets/banner_2_2.png)](https://github.com/Zaytsev-V/Zaytsev_V/blob/assets/banner_2_2.jpg)
 
-<!--
-**Zaytsev-V/Zaytsev-V** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Привет, я Зайцев Виталий
 
-Here are some ideas to get you started:
+Аналитик данных. Здесь вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для решения поставленных задач.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/python.svg" alt="Python"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/sql.svg" alt="SQL"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/pandas.svg" alt="Pandas"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/jupyter_b.svg" alt="Jupyter"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/google.svg" alt="Google"  />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/datalens.svg" alt="Datalens" />
+</div>
+
+
+## 🔨 Навыки
+- Python (Pandas, Seaborn, Matplotlib, Scipy)
+- SQL (PostgreSQL, CTE, оконные функции)
+- BI и визуализация (Jupyter, Google Sheets, Excel, Яндекс Datalens)
+- A/B-тестирование, исследовательский анализ данных
+
+## Контакты
+- [Telegram](https://t.me/vitaliy_zaitsev_da)
+- yplessons@gmail.com
+
+## Образование
+- Физический факультет МГУ им. Ломоносова - 1999 г.
+- Курс Аналитик данных от Яндекс Практикум - 2025 г.
+- Курс Введение в SQL от Stepik - 2025 г.
+
