@@ -10,7 +10,7 @@
   <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/pandas.svg" alt="Pandas"  />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/jupyter_b.svg" alt="Jupyter"  />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/google.svg" alt="Google" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/Zaytsev-V/Zaytsev_V.github.io/blob/assets/datalens.svg" alt="Datalens" />
+  <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/datalens.svg" alt="Datalens" />
 </div>
 
 
