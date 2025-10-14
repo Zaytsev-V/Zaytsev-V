@@ -7,7 +7,7 @@
 Использую Python, SQL, BI в аналитических проектах, до этого управлял
 коммерческими процессами, принимая решения на основе данных из 1С, Excel и CRM.
 
-Здесь вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для решения поставленных задач.
+[Здесь](https://github.com/Zaytsev-V/data-analytics-portfolio) вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для решения поставленных задач.
 
 <div align="center">
   <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/python.svg" alt="Python"  />&nbsp;&nbsp;&nbsp;&nbsp;
