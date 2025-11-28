@@ -21,7 +21,7 @@
 
 ## 🔨 Навыки
 - Python (Pandas, Seaborn, Matplotlib, Scipy, requests, sqlalchemy)
-- SQL (PostgreSQL, CTE, оконные функции)
+- SQL (PostgreSQL, CTE, оконные функции, VIEW)
 - BI и визуализация (Jupyter, Google Sheets, Excel, Яндекс Datalens)
 - A/B-тестирование, исследовательский анализ данных
 - Excel(ВПР, сводные таблицы, Power Query)
