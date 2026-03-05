@@ -1,13 +1,16 @@
 ![(main/banner_2_2.png)](https://github.com/Zaytsev-V/Zaytsev-V/blob/main/banner_2_2.jpg)
 
-## Привет, я Зайцев Виталий
+## Зайцев Виталий - Бизнес-аналитик | Data Analyst
 
-Я — аналитик данных с глубокой экспертизой в ритейле, логистике и управлении продажами.
+**Превращаю данные в управленческие решения**. Сочетание 24-летнего опыта в ритейле/логистике и современных инструментов анализа (Python/SQL).
 
-Использую Python, SQL, BI в аналитических проектах, до этого управлял
-коммерческими процессами, принимая решения на основе данных из 1С, Excel и CRM.
+**Обо мне**
 
-[Здесь](https://github.com/Zaytsev-V/data-analytics-portfolio) вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для решения поставленных задач.
+Я — аналитик с глубоким пониманием бизнес-процессов «изнутри». До погружения в Data Analysis я 24 года управлял продажами и закупками (B2B/B2C), отвечал за P&L, оптимизацию складов и автоматизацию логистики.
+
+Сегодня я применяю этот опыт в аналитике: строю пайплайны данных, сегментирую клиентов и нахожу точки роста маржинальности. **Моя главная ценность — я понимаю не только как написать код, но и зачем этот код нужен бизнесу.**
+
+**[Здесь](https://github.com/Zaytsev-V/data-analytics-portfolio)** вы найдёте проекты, в которых я применяю Python, SQL, визуализацию, A/B-тесты и BI-инструменты для решения поставленных задач.
 
 <div align="center">
   <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/python.svg" alt="Python"  />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,13 +21,17 @@
   <img src="https://github.com/Zaytsev-V/Zaytsev-V/blob/main/datalens.svg" alt="Datalens" />
 </div>
 
+## 💼 Предметная экспертиза (Domain Knowledge)
+- Управление продажами и закупками
+- Логистика и оптимизация товарных запасов
+- Финансовое планирование и ценообразование
+- Разработка систем мотивации и KPI
 
-## 🔨 Навыки
-- Python (Pandas, Seaborn, Matplotlib, Scipy, requests, sqlalchemy)
-- SQL (PostgreSQL, CTE, оконные функции, VIEW)
-- BI и визуализация (Jupyter, Google Sheets, Excel, Яндекс Datalens)
-- A/B-тестирование, исследовательский анализ данных
-- Excel(ВПР, сводные таблицы, Power Query)
+## 🔨 Технический стек (Tech Stack)
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn, SciPy, Requests, SQLAlchemy
+- **SQL**: PostgreSQL, сложные запросы (CTE, оконные функции), оптимизация, VIEW
+- **BI и визуализация**: Yandex DataLens, Power BI (начальный уровень), Excel (Power Query)
+- **Process**: A/B тестирование, проверка статистических гипотез, ETL
 
 ## 📞 Контакты
 - [Telegram](https://t.me/vitaliy_zaitsev_da)
